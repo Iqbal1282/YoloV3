@@ -9,12 +9,22 @@ Clone or Download the files.
 ### Prerequisites
 This project is written in Python 3.7 using Tensorflow 2.0 (deep learning), NumPy (numerical computing), Pillow (image processing), OpenCV (computer vision) and absl (flags) packages.
 
+
+
 #### Installation
 
 ```bash
 pip3 install -r ./requirements.txt
 wget https://pjreddie.com/media/files/yolov3.weights -O ./yolov3.weights
 ```
+
+
+#### YouTube Tutorial
+'''
+  https://youtu.be/Rb2mcbyhgLI
+'''
+
+
 
 #### Detect
 
