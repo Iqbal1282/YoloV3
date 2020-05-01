@@ -6,8 +6,6 @@ Clone or Download the files.
 1. Downlaod the coco  weight from https://pjreddie.com/media/files/yolov3.weights  and keep in the weights directory 
 
 
-![alt text][image]
-
 ### Prerequisites
 This project is written in Python 3.7 using Tensorflow 2.0 (deep learning), NumPy (numerical computing), Pillow (image processing), OpenCV (computer vision) and absl (flags) packages.
 
