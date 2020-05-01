@@ -42,4 +42,4 @@ open.
 - [YOLO implementation](https://github.com/zzh8829/yolov3-tf2)
 
 
-[image]: ./YOLOV3/output_0.jpg "Logo Title Text 2"
+[image]: ./YOLO_V3/output_0.jpg "Logo Title Text 2"
