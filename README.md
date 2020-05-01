@@ -3,7 +3,8 @@ Object detection with yolov3 algorithm using  Tensorflow-2
 
 Clone or Download the files.
 
-1. Downlaod the coco  weight from ## YOLOv3 implementation in TensorFlow 2.0
+1. Downlaod the coco  weight from https://pjreddie.com/media/files/yolov3.weights  and keep in the weights directory 
+
 
 ![alt text][image]
 
