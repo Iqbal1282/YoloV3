@@ -43,3 +43,9 @@ open.
 
 
 [image]: ./YOLO_V3/output_0.jpg "Logo Title Text 2"
+
+```
+output_0.jpg
+```
+![alt text](https://github.com/Iqbal1282/YoloV3/blob/master/YOLO_V3/output_0.jpg))
+```
