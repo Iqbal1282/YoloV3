@@ -7,6 +7,9 @@ Clone or Download the files.
 
 ![alt text][image]
 
+### Prerequisites
+This project is written in Python 3.7 using Tensorflow 2.0 (deep learning), NumPy (numerical computing), Pillow (image processing), OpenCV (computer vision) and absl (flags) packages.
+
 #### Installation
 
 ```bash
