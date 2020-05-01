@@ -20,7 +20,15 @@ wget https://pjreddie.com/media/files/yolov3.weights -O ./yolov3.weights
 python detect.py 
 ```
 
+#### Use
 
+0pen the detect.py file check the name of directory of images and video files . 
+You can use your image and keep it in the data folder. And change the name of the directory 
+according to image name or video file name  in the line 11 and 15. 
+
+U can change the input type of the main function in the line 86 to 'image', 'video'
+,and 'camera' to use different types of file. If camera is chosen your webcam will 
+open. 
 ```
 
 #### Papers and thanks
